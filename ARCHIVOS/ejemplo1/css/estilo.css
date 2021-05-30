@@ -17,7 +17,7 @@
 
 /* aplicamos estilos al header */
 header {
-  background: url("/luis-duenas.github.io/ARCHIVOS/ejemplo1/img/foto2.jpg");
+  background: url("/ARCHIVOS/ejemplo1/img/foto2.jpg");
   background-repeat: no-repeat;
   background-position: center;
   max-height: 600px;
