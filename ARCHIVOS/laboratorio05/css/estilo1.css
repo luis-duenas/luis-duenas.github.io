@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-image: url(/img/fondo.jpg);
+    font-family: algerian;
+    color: rgb(0, 255, 21);
+    font-size: 200%;
+}
+
+.diseño3{
+    color: rgb(0, 255, 21);
+    margin-top: 5%;
+    margin-left: -55%;
+}
+
+
+.diseño4 {
+    color: rgb(0, 255, 21);
+    margin-left: 45%;
+    margin-top: -25%;
+}

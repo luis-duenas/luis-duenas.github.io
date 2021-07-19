@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-image: url(/img/fondo.jpg);
+    font-family: algerian;
+    background-repeat: repeat;
+    color: white;
+    font-size: 200%;
+    
+}
+
+
+.diseño{
+    color: white;
+}
+
+.diseño2{
+font-family: algerian;
+color: white;
+text-align: center;
+}

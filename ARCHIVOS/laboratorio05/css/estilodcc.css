@@ -1,9 +1,9 @@
 body {
     margin: 0;
     text-align: center;
-    background-image: url(/laboratorio05/img/fondo.jpg);
+    background-image: url(/img/fondo.jpg);
     font-family: algerian;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     
 }
 
@@ -17,8 +17,9 @@ ul{
     overflow: auto;
     border: 1px solid #555;
     margin-left: 450px;
-    margin-top: 5%;
+    margin-top: 0%;
     border-radius: 15px;
+    margin-bottom: 3%;
 
 }
 
@@ -48,6 +49,9 @@ li a:hover:not(.activo) {
 
 h1{
     color: white;
-    margin-top: 5%;
+    margin-top: 1%;
 }
 
+h2{
+    color: white;
+}
